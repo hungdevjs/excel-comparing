@@ -1,0 +1,25 @@
+.wrapper {
+  height: 100vh;
+  max-width: 100vw;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.result-table td,
+.result-table th {
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.result-table td {
+  padding: 0 4px;
+}
